@@ -1,0 +1,133 @@
+  .App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background: linear-gradient(0.25turn, #1d8200, #683300, #00b2ff, #00b2ff, #683300, #1d8200);
+  justify-content: center;
+  align-items: center;
+  }
+  .centering{
+  width: 50%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  }
+  .container{
+  width: 80%;
+  height: 50px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  }
+  .container2{
+  width: 80%;
+  height: 50px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  }
+  .img1{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wolf_vector_image.svg/1200px-Wolf_vector_image.svg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img2{
+  width: 50px;
+  height: 50px;
+  background-image: url('https://cdn.pixabay.com/photo/2012/05/07/12/57/female-48385_960_720.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img3{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://cdn.pixabay.com/photo/2013/07/13/12/10/cabbage-159333_1280.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img4{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://purepng.com/public/uploads/large/purepng.com-farmeragriculturefarmerraw-materialsraising-field-cropslaborerclipartcartoon-1421526886988ciibj.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img11{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wolf_vector_image.svg/1200px-Wolf_vector_image.svg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img22{
+  width: 50px;
+  height: 50px;
+  background-image: url('https://cdn.pixabay.com/photo/2012/05/07/12/57/female-48385_960_720.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img33{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://cdn.pixabay.com/photo/2013/07/13/12/10/cabbage-159333_1280.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .img44{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://purepng.com/public/uploads/large/purepng.com-farmeragriculturefarmerraw-materialsraising-field-cropslaborerclipartcartoon-1421526886988ciibj.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .boat{
+  width: 125px;
+  height: 400px;
+  background-color: brown;
+  position: absolute;
+  left: 20%;
+  transition: all 2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  }
+  .imgg1{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Wolf_vector_image.svg/1200px-Wolf_vector_image.svg.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .imgg2{
+  width: 50px;
+  height: 50px;
+  background-image: url('https://cdn.pixabay.com/photo/2012/05/07/12/57/female-48385_960_720.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .imgg3{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://cdn.pixabay.com/photo/2013/07/13/12/10/cabbage-159333_1280.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .imgg4{
+  width: 50px;
+  height: 50px;
+  background-image: url(https://purepng.com/public/uploads/large/purepng.com-farmeragriculturefarmerraw-materialsraising-field-cropslaborerclipartcartoon-1421526886988ciibj.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+  .handle{
+  width: 100%;
+  height: 20px;
+  background-color: white;
+  cursor: pointer;
+  text-align: center;
+  }
